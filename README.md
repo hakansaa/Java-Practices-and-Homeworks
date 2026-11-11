@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <b>Java Programming • Practical Assignments • 2026</b>
+  <b>Java Programming • Practical Assignments • 2026-2027</b>
 </p>
