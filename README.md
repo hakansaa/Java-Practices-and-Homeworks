@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk" alt="Java">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-blue?style=for-the-badge&logo=intellijidea" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Практичні_роботи-9-success?style=for-the-badge" alt="9 практичних робіт">
+  <img src="https://img.shields.io/badge/Практичні_роботи-9-success?style=for-the-badge" alt="15 практичних робіт">
 </p>
 
 ## 📖 Про репозиторій
