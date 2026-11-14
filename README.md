@@ -24,8 +24,8 @@
 | 07 | Practice 07 / Homework 07 | [Переглянути](./Practice07-or-Homework07/src) |
 | 08 | Practice 08 / Homework 08 | [Переглянути](./Practice08-or-Homework08/src) |
 | 09 | Practice 09 / Homework 09 | [Переглянути](./Practice09-or-Homework09/src) |
-| 10 | Practice 10 / Homework 10 | [Переглянути](./practice10-homework10/src) |
-| 11 | Practice 11 / Homework 11 |
+| 10 | Practice 10 / Homework 10 | [Переглянути](./practice10-homework10/src)    |
+| 11 | Practice 11 / Homework 11 | [Переглянути](./Practice11-or-Homework11/src) |
 | 12 | Practice 12 / Homework 12 |
 | 13 | Practice 13 / Homework 13 |
 | 14 | Practice 14 / Homework 14 |
